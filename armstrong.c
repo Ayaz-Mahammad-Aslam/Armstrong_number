@@ -3,7 +3,9 @@
 int main()
 /* An armstrong number is a number which is equal to the sum of the cubes of its individual digits.
 For example, 153 is an armstrong number as : 
-153 = (1)3+ (5)3 + (3)3 153, = 1 + 125 + 27 153 = 153 */
+153 = (1)3+ (5)3 + (3)3 
+= 1 + 125 + 27
+= 153 */
 {
     int n,r,sum=0,temp;
     printf("Enter a number :\n");
